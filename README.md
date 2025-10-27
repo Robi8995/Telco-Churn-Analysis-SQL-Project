@@ -1,4 +1,4 @@
-```markdown
+
 # 📞 Telco Customer Churn – SQL Project
 
 [![SQL](https://img.shields.io/badge/SQL-MySQL-blue)](https://www.mysql.com/) 
