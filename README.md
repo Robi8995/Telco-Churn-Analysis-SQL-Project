@@ -492,8 +492,8 @@ FROM (
 ---
 
 ## 📝 Author
-**Your Name**  
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile)
+**Robin Jimmichan P**  
+[LinkedIn](https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291) | [GitHub](https://github.com/Robi8995)
 
 ---
 
@@ -501,7 +501,6 @@ FROM (
 - **Database:** MySQL 8.0+
 - **Languages:** SQL
 - **Tools:** MySQL Workbench, CSV Export
-- **Dataset:** WA_Fn-UseC_-Telco-Customer-Churn.csv (7,032 customer records)
 
 ---
 
