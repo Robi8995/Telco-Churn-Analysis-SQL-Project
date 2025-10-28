@@ -1,0 +1,5 @@
+gender,Partner,total_customers,churned_customers,churn_rate_percent
+Female,No,1800,620,34.44
+Male,No,1839,580,31.54
+Male,Yes,1710,350,20.47
+Female,Yes,1683,319,18.95

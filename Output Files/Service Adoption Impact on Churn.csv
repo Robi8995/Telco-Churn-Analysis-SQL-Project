@@ -1,0 +1,4 @@
+service_adoption,total_customers,churned_customers,churn_rate_percent
+"No Add-on Services",3233,1038,32.11
+"1-2 Services",3112,784,25.19
+"3+ Services",687,47,6.84
