@@ -457,23 +457,6 @@ FROM (
 ) t;
 ```
 
----
-
-## 📊 Recommended Visualizations
-
-- **Churn Distribution Pie Chart** - Overall churn vs. retention split
-- **Contract Type Comparison** - Bar chart showing churn rates by contract type
-- **Payment Method Analysis** - Column chart comparing churn across payment methods
-- **Tenure Impact** - Line chart showing churn trends across customer lifecycle
-- **Senior Citizen Comparison** - Side-by-side bar chart of senior vs. non-senior churn
-- **Monthly Charges Impact** - Scatter plot of monthly charges vs. churn
-- **Service Adoption Benefits** - Bar chart showing churn reduction with add-on services
-- **Internet Service Type** - Comparison of churn rates across service tiers
-- **Demographics Dashboard** - Multi-chart analysis of gender, partnership, dependents impact
-- **High-Risk Segments Heatmap** - Combined contract and payment method risk matrix
-
----
-
 ## 🎓 Learning Outcomes
 
 - Telecommunications industry customer churn analysis and retention strategies
