@@ -466,6 +466,7 @@ ORDER BY churn_rate_percent DESC;
 | **Database** | MySQL 8.0+ |
 | **Languages** | SQL |
 | **Tools** | MySQL Workbench, CSV Export |
+| **Dataset Used** | WA_Fn-UseC_-Telco-Customer-Churn.csv |
 
 ---
 
