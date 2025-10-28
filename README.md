@@ -442,21 +442,6 @@ GROUP BY gender, Partner
 ORDER BY churn_rate_percent DESC;
 ```
 
-### Step 5: Export Results
-```sql
-SELECT * INTO OUTFILE 'Churn_By_Contract_Output.csv'
-FIELDS TERMINATED BY ','
-FROM (
-    SELECT 
-        Contract,
-        COUNT(*) AS total_customers,
-        SUM(CASE WHEN Churn = 'Yes' THEN 1 ELSE 0 END) AS churned_customers,
-        ROUND(SUM(CASE WHEN Churn = 'Yes' THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 2) AS churn_rate_percent
-    FROM telco_churn
-    GROUP BY Contract
-) t;
-```
-
 ## 🎓 Learning Outcomes
 
 - Telecommunications industry customer churn analysis and retention strategies
