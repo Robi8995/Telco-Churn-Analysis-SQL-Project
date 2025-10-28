@@ -240,30 +240,33 @@ Telecommunications companies face significant revenue loss from customer churn, 
 
 **CSV Files Generated:**
 
-1. **Avg_Charges_Churn_Output.csv** - Average charges and tenure by churn status (2 rows)
+1. **Average Charges and Tenure by Churn.csv** - Average charges and tenure by churn status (2 rows)
    - Churned: $74.44 monthly, $1,531.80 total, 18.0 months tenure
    - Retained: $61.31 monthly, $2,555.34 total, 37.7 months tenure
 
-2. **Churn_By_Contract_Output.csv** - Churn analysis by contract type (3 rows)
+2. **Churn by Contract Type.csv** - Churn analysis by contract type (3 rows)
    - Contract Type, Total Customers, Churned, Churn Rate %
 
-3. **Churn_By_Payment_Output.csv** - Churn analysis by payment method (4 rows)
+3. **Churn by Payment Method.csv** - Churn analysis by payment method (4 rows)
    - Payment Method, Total Customers, Churned, Churn Rate %
 
-4. **Senior_Citizen_Churn_Output.csv** - Senior citizen churn analysis (2 rows)
+4. **Senior Citizen Churn Analysis.csv** - Senior citizen churn analysis (2 rows)
    - Senior Status, Total Customers, Churned, Churn Rate %
 
-5. **Internet_Service_Churn_Output.csv** - Churn by internet service type (3 rows)
+5. **Churn by Internet Service Type.csv** - Churn by internet service type (3 rows)
    - Internet Service, Total Customers, Churned, Churn Rate %
 
-6. **Service_Adoption_Churn_Output.csv** - Churn by add-on service adoption (3 rows)
+6. **Service Adoption Impact on Churn.csv** - Churn by add-on service adoption (3 rows)
    - Service Adoption Level, Total Customers, Churned, Churn Rate %
 
-7. **Tenure_Group_Churn_Output.csv** - Churn by tenure windows (4 rows)
+7. **Tenure-Based Churn Analysis.csv** - Churn by tenure windows (4 rows)
    - Tenure Group, Total Customers, Churned, Churn Rate %
 
-8. **High_Risk_Segments_Output.csv** - Combined risk factor analysis
+8. **High-Risk Customer Segments.csv** - Combined risk factor analysis
    - Contract, Payment Method, Total Customers, Churned, Churn Rate %
+
+9. **Gender and Partnership Impact.csv** – Gender & relationship status influence on churn
+   - Gender, Partner Status, Total Customers, Churned, Churn Rate %
 
 **Database Files:**
 - `Telco_Customer_Churn_SQL_Project.sql` - Complete SQL script with all queries
