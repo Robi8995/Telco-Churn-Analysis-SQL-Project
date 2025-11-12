@@ -15,9 +15,8 @@ A comprehensive SQL-based telecommunications analytics project for identifying c
 3. [Key Analysis Steps](#-key-analysis-steps)
 4. [SQL Techniques Used](#-sql-techniques-used)
 5. [Key Findings](#-key-findings)
-6. [Business Impact](#-business-impact)
-7. [Output Files](#-output-files)
-8. [How to Use](#-how-to-use)
+6. [Output Files](#-output-files)
+7. [How to Use](#-how-to-use)
 
 ---
 
@@ -213,26 +212,6 @@ Telecommunications companies face significant revenue loss from customer churn, 
 - **Streaming Services:** Streaming subscribers demonstrate lower churn rates vs. non-subscribers
 
 **Insight:** Service bundling and add-on adoption are significant retention factors, indicating value-added services drive customer stickiness.
-
----
-
-## 💼 Business Impact
-
-✅ **Churn Risk Identification:** Classify 1,869 churned customers (26.54% of base) identifying revenue loss drivers and prevention opportunities
-
-✅ **Contract Optimization:** Month-to-month contracts show 42.71% churn vs. 2.85% for two-year contracts, indicating annual savings potential of $2M+ through contract tier incentives
-
-✅ **Payment Processing:** Electronic check method drives 45.29% churn; transitioning users to automatic payments could reduce churn by 50% ($1.5M+ savings)
-
-✅ **Senior Customer Programs:** Target 41.68% churn rate among seniors with specialized support reducing churn 15-25% ($400K-$600K annual savings)
-
-✅ **Tenure Optimization:** Focus retention on first 18 months (critical churn window) with onboarding programs and early engagement reducing early churn 20-30%
-
-✅ **Service Bundling:** Add-on service adoption reduces churn 50%, enabling upsell strategy generating $1M+ incremental annual revenue
-
-✅ **Pricing Strategy:** Analyze relationship between $74.44 avg monthly charges for churners vs. $61.31 for retained customers, optimize pricing to reduce churn 10-15%
-
-✅ **Revenue Protection:** Combined retention initiatives address 3 primary churn drivers (contract, payment, demographics) preventing $4M-$5M annual churn losses
 
 ---
 
